@@ -1,5 +1,5 @@
 from divisibility_rule import div_rule
-import math
+
 
 def is_divisible(n,m):
     divisibility_rule = div_rule(m)
